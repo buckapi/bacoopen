@@ -916,12 +916,3 @@
 
 
 })(jQuery); 
-
-if($('.home-video').length > 0 ) {
-        $('.home-video').css('height', screenHeight);
-
-        $(window).resize(function(){
-            var screenHeight = $(window).height();
-            $('.home-video').css('height', screenHeight);
-        });
-    }
