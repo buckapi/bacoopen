@@ -484,7 +484,7 @@ body.tt-m-menu-open #header.header-show-hide-on-scroll { /* disable hide/show he
 	z-index: 9;
 }
 #header #logo img {
-	max-height: 50px
+	max-height: 150px;
 }
 
 #logo .logo-light {
