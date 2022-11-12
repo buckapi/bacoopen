@@ -8551,7 +8551,7 @@ body.header-transparent-on #page-header.ph-xlg .page-header-inner {
 
 .youtube-bg {
 	position: relative;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
@@ -8597,7 +8597,9 @@ body.header-transparent-on #page-header.ph-xlg .page-header-inner {
 @media (min-width: 480px) {
 	.mb_YTPBar span.mb_OnlyYT {
 		left: 330px;
+
 	}
+
 }
 
 
