@@ -503,7 +503,7 @@ body.tt-m-menu-open #header.header-show-hide-on-scroll { /* disable hide/show he
 		top: 13px !important;
 	}
 	#header #logo img {
-		max-height: 150px !important;
+		max-height: 90px !important;
 	}
 
 	#logo .logo-dark {
